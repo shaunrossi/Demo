@@ -1,6 +1,6 @@
 #include <24FJ256GA106.h>         // Modify for your chip
 
-#use delay(crystal=20mhz)   // Modify for your clock and freq
+#use delay(crystal=21mhz)   // Modify for your clock and freq
                             //   for example: internal=8mhz
 
 void main(void) {
